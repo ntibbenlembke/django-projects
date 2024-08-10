@@ -1,1 +1,3 @@
 .\venv\*
+storefront\playground\__pycache__
+storefront\storefront\__pycache__
